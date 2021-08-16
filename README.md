@@ -7,3 +7,5 @@ Interested to view the frequencies of numbers drawn and the top 20 jackpot prize
 
 [Click here](https://public.tableau.com/profile/peggy.chang#!/vizhome/TOTOLottery/S1) to check out these visualizations created with Tableau Public.
 
+![Toto Image](Toto.png)
+
